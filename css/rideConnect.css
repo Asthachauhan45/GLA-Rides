@@ -4,7 +4,7 @@
     display: flex;
     color: white;
     height: auto;
-    background-image: url(./images/background.jpg);
+    background-image: url(../images/background.jpg);
     background-repeat: no-repeat;
     background-size:250vh ;
     
