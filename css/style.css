@@ -505,7 +505,7 @@ input.email-bt::placeholder {
 }
 
 .image_3{
-     width: fit-content;
+     max-width = 300px;
      float: left;
 }
 
