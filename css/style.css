@@ -328,7 +328,8 @@ button {
 }
 
 .image_1 {
-    width: 50%;
+    width: 100%;
+    max-width: 70%;
     float: right;
     margin-top: 50px;
 }
