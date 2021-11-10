@@ -501,6 +501,7 @@ input.email-bt::placeholder {
 .ride_section_2{
      width: 100%;
      float: left;
+     background-color:#1a1a1a;
 }
 
 .image_3{
@@ -520,7 +521,7 @@ input.email-bt::placeholder {
      width: 100%;
      float: left;
      font-size: 16px;
-     color: black;
+     color: white;
      margin-left: 0px;
 }
 
@@ -555,7 +556,7 @@ input.email-bt::placeholder {
      width: 100%;
      float: left;
      font-size: 16px;
-     color: black;
+     color: white;
      margin-left: 0px;
      text-align: right;
 }
