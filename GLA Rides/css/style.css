@@ -520,7 +520,7 @@ input.email-bt::placeholder {
      width: 100%;
      float: left;
      font-size: 16px;
-     color: white;
+     color: black;
      margin-left: 0px;
 }
 
@@ -555,7 +555,7 @@ input.email-bt::placeholder {
      width: 100%;
      float: left;
      font-size: 16px;
-     color: white;
+     color: black;
      margin-left: 0px;
      text-align: right;
 }
